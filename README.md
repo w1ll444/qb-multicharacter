@@ -12,6 +12,10 @@ Multi Character Feature for QB-Core Framework with a more modern and advanced re
 - Ability to create up to 5 characters and delete any character.
 - Ability to see character information during selection.
 
+## Screenshots
+![multicharacter](https://media.discordapp.net/attachments/1015040101362978877/1017846600086855732/unknown.png?width=1440&height=608)
+
+
 ## Installation
 - Download the script and put it in the `[qb]` directory.
 - Add the following code to your server.cfg/resouces.cfg
